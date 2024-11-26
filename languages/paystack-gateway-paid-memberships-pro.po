@@ -1,0 +1,184 @@
+# Copyright (C) 2024 Paid Memberships Pro, Paystack
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paystack Gateway for Paid Memberships Pro 1.8\n"
+"Report-Msgid-Bugs-To: info@paidmembershipspro.com\n"
+"Last-Translator: Paid Memberships Pro <info@paidmembershipspro.com>\n"
+"Language-Team: Paid Memberships Pro <info@paidmembershipspro.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-06T12:57:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: paystack-gateway-paid-memberships-pro\n"
+
+#. Plugin Name of the plugin
+#: class.pmprogateway_paystack.php
+#: paystack-gateway-paid-memberships-pro.php
+msgid "Paystack Gateway for Paid Memberships Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: class.pmprogateway_paystack.php
+#: paystack-gateway-paid-memberships-pro.php
+msgid "https://www.paidmembershipspro.com/add-ons/paystack-gateway/"
+msgstr ""
+
+#. Description of the plugin
+#: class.pmprogateway_paystack.php
+#: paystack-gateway-paid-memberships-pro.php
+msgid "Plugin to add Paystack payment gateway into Paid Memberships Pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "Paystack, Paid Memberships Pro"
+msgstr ""
+
+#. Author URI of the plugin
+#: class.pmprogateway_paystack.php
+#: paystack-gateway-paid-memberships-pro.php
+msgid "https://www.paidmembershipspro.com"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:97
+#: class.pmprogateway_paystack.php:108
+#: class.pmprogateway_paystack.php:114
+#: class.pmprogateway_paystack.php:118
+#: paystack-gateway-paid-memberships-pro.php:118
+msgid "Settings"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:111
+#: class.pmprogateway_paystack.php:122
+#: class.pmprogateway_paystack.php:128
+#: class.pmprogateway_paystack.php:132
+#: paystack-gateway-paid-memberships-pro.php:132
+msgid "Check Out with Paystack"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:111
+#: class.pmprogateway_paystack.php:122
+#: class.pmprogateway_paystack.php:128
+#: class.pmprogateway_paystack.php:132
+#: paystack-gateway-paid-memberships-pro.php:132
+msgid "Submit and Confirm"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:124
+#: class.pmprogateway_paystack.php:135
+#: class.pmprogateway_paystack.php:141
+#: class.pmprogateway_paystack.php:145
+#: paystack-gateway-paid-memberships-pro.php:145
+msgid "Paystack"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:348
+#: class.pmprogateway_paystack.php:377
+#: class.pmprogateway_paystack.php:394
+#: class.pmprogateway_paystack.php:408
+#: class.pmprogateway_paystack.php:407
+#: paystack-gateway-paid-memberships-pro.php:407
+msgid "Test Secret Key"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:356
+#: class.pmprogateway_paystack.php:385
+#: class.pmprogateway_paystack.php:402
+#: class.pmprogateway_paystack.php:416
+#: class.pmprogateway_paystack.php:415
+#: paystack-gateway-paid-memberships-pro.php:415
+msgid "Test Public Key"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:364
+#: class.pmprogateway_paystack.php:393
+#: class.pmprogateway_paystack.php:410
+#: class.pmprogateway_paystack.php:424
+#: class.pmprogateway_paystack.php:423
+#: paystack-gateway-paid-memberships-pro.php:423
+msgid "Live Secret Key"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:372
+#: class.pmprogateway_paystack.php:401
+#: class.pmprogateway_paystack.php:418
+#: class.pmprogateway_paystack.php:432
+#: class.pmprogateway_paystack.php:431
+#: paystack-gateway-paid-memberships-pro.php:431
+msgid "Live Public Key"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:380
+#: class.pmprogateway_paystack.php:409
+#: class.pmprogateway_paystack.php:426
+#: class.pmprogateway_paystack.php:440
+#: class.pmprogateway_paystack.php:439
+#: paystack-gateway-paid-memberships-pro.php:439
+msgid "Webhook"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:383
+#: class.pmprogateway_paystack.php:412
+#: class.pmprogateway_paystack.php:429
+#: class.pmprogateway_paystack.php:443
+#: class.pmprogateway_paystack.php:442
+#: paystack-gateway-paid-memberships-pro.php:442
+msgid "To fully integrate with Paystack, be sure to use the following for your Webhook URL to"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:852
+#: class.pmprogateway_paystack.php:930
+#: class.pmprogateway_paystack.php:948
+#: class.pmprogateway_paystack.php:975
+#: class.pmprogateway_paystack.php:973
+#: class.pmprogateway_paystack.php:984
+#: paystack-gateway-paid-memberships-pro.php:984
+msgid "Account"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:853
+#: class.pmprogateway_paystack.php:931
+#: class.pmprogateway_paystack.php:949
+#: class.pmprogateway_paystack.php:976
+#: class.pmprogateway_paystack.php:974
+#: class.pmprogateway_paystack.php:985
+#: paystack-gateway-paid-memberships-pro.php:985
+msgid "Order"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:854
+#: class.pmprogateway_paystack.php:932
+#: class.pmprogateway_paystack.php:950
+#: class.pmprogateway_paystack.php:977
+#: class.pmprogateway_paystack.php:975
+#: class.pmprogateway_paystack.php:986
+#: paystack-gateway-paid-memberships-pro.php:986
+msgid "Membership Level"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:855
+#: class.pmprogateway_paystack.php:933
+#: class.pmprogateway_paystack.php:951
+#: class.pmprogateway_paystack.php:978
+#: class.pmprogateway_paystack.php:976
+#: class.pmprogateway_paystack.php:987
+#: paystack-gateway-paid-memberships-pro.php:987
+msgid "Amount Paid"
+msgstr ""
+
+#. Author of the plugin
+#: class.pmprogateway_paystack.php
+#: paystack-gateway-paid-memberships-pro.php
+msgid "Paid Memberships Pro, Paystack"
+msgstr ""
+
+#: class.pmprogateway_paystack.php:1119
+#: class.pmprogateway_paystack.php:1140
+#: class.pmprogateway_paystack.php:1166
+#: class.pmprogateway_paystack.php:1164
+#: class.pmprogateway_paystack.php:1175
+#: paystack-gateway-paid-memberships-pro.php:1175
+msgid "There was an error communicating with Paystack. Please confirm your connectivity and API details and try again."
+msgstr ""
